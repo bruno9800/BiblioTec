@@ -3,11 +3,31 @@
 
  ## O objetivo da avaliação era desenvolver um programa capaz de controlar o estoque de uma Biblioteca - livraria
  ##
- -  1 > adicionar tombo  ( nome da obra, nome do autor, nome da editora, código da área ) obs: numero do tombo adicionado em ordem crescente 
- -  2 > adicionar obra   ( informar tombo, data da compra,  número do exemplar )
- -  3 > Apresentar obra por Área
- -  4 > Apresentar Obra por Autor
- -  5 > Apresentar Obra por Editora
- -  6 > Encerrar programa
 
    ![image](https://user-images.githubusercontent.com/82674117/138096748-a0b725bf-b463-4b83-b995-801ef8147b75.png)
+
+ - 1 > adicionar tombo
+ ##
+  -- Informar o nome da obra
+  -- Informar o nome do Autor
+  -- Informar o nome da Editora
+  -- Informar o Código de Área
+          ( 1 - Exatas )
+          ( 2 - Humanas e sociais )
+          ( 3 - Biomédicas )
+  ### número do tomobo adicionado automaticamente. 0, 1, 2 ...
+  
+   -  2 > adicionar obra
+   ##
+      -- Informar o número do Tombo
+      -- Informar data da Compra
+      -- Informar o número do exemplar
+   ### Opção selecionada ao realizar a venda
+  
+  - 3 > Mostrar Obra por Área
+   ##
+  -  4 > Apresentar Obra por Autor
+   ##
+  -  5 > Apresentar Obra por Editora
+   ##
+  -  6 > Encerrar programa
