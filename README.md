@@ -11,7 +11,7 @@
   - Informar o nome da obra
   - Informar o nome do Autor
   - Informar o nome da Editora
-  - Informar o Código de Área
+  - Informar o Código de Área<br>
           ( 1 - Exatas ) <br>
           ( 2 - Humanas e sociais ) <br>
           ( 3 - Biomédicas )
