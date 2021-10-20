@@ -8,12 +8,12 @@
 
  ## 1 > adicionar tombo
  ##
-  -- Informar o nome da obra
-  -- Informar o nome do Autor
-  -- Informar o nome da Editora
-  -- Informar o Código de Área
-          ( 1 - Exatas )
-          ( 2 - Humanas e sociais )
+  - Informar o nome da obra
+  - Informar o nome do Autor
+  - Informar o nome da Editora
+  - Informar o Código de Área
+          ( 1 - Exatas ) <br>
+          ( 2 - Humanas e sociais ) <br>
           ( 3 - Biomédicas )
   - número do tomobo adicionado automaticamente. 0, 1, 2 ...
   
