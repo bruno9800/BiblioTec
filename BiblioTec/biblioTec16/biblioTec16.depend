@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1622918009 source:c:\users\user\documents\bruno\projects\bibliotec16\backup.c
+	"biblioTec.h"
+
+1622921629 c:\users\user\documents\bruno\projects\bibliotec16\bibliotec.h
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<windows.h>
+	<unistd.h>
+
+1622921659 source:c:\users\user\documents\bruno\projects\bibliotec16\cadastro.c
+	"biblioTec.h"
+
+1622927760 source:c:\users\user\documents\bruno\projects\bibliotec16\main.c
+	"biblioTec.h"
+
+1622917989 source:c:\users\user\documents\bruno\projects\bibliotec16\restore.c
+	"biblioTec.h"
+
+1622927707 source:c:\users\user\documents\bruno\projects\bibliotec16\showall.c
+	"biblioTec.h"
+
+1622919208 source:c:\users\user\documents\bruno\projects\bibliotec16\configs.c
+	"biblioTec.h"
+
+1622921726 source:c:\users\user\documents\bruno\projects\bibliotec16\cadobra.c
+	"biblioTec.h"
+
+1622918009 source:c:\users\user\desktop\bibliotec\bibliotec16\backup.c
+	"biblioTec.h"
+
+1622921629 c:\users\user\desktop\bibliotec\bibliotec16\bibliotec.h
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<windows.h>
+	<unistd.h>
+
+1622921659 source:c:\users\user\desktop\bibliotec\bibliotec16\cadastro.c
+	"biblioTec.h"
+
+1622921726 source:c:\users\user\desktop\bibliotec\bibliotec16\cadobra.c
+	"biblioTec.h"
+
+1622919208 source:c:\users\user\desktop\bibliotec\bibliotec16\configs.c
+	"biblioTec.h"
+
+1623023288 source:c:\users\user\desktop\bibliotec\bibliotec16\main.c
+	"biblioTec.h"
+
+1622917989 source:c:\users\user\desktop\bibliotec\bibliotec16\restore.c
+	"biblioTec.h"
+
+1622927707 source:c:\users\user\desktop\bibliotec\bibliotec16\showall.c
+	"biblioTec.h"
+
